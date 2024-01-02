@@ -1,0 +1,14 @@
+D:\Temp\Code\vs_code_cs\bin\Debug\net8.0\vs_code_cs.exe
+D:\Temp\Code\vs_code_cs\bin\Debug\net8.0\vs_code_cs.deps.json
+D:\Temp\Code\vs_code_cs\bin\Debug\net8.0\vs_code_cs.runtimeconfig.json
+D:\Temp\Code\vs_code_cs\bin\Debug\net8.0\vs_code_cs.dll
+D:\Temp\Code\vs_code_cs\bin\Debug\net8.0\vs_code_cs.pdb
+D:\Temp\Code\vs_code_cs\obj\Debug\net8.0\vs_code_cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\Code\vs_code_cs\obj\Debug\net8.0\vs_code_cs.AssemblyInfoInputs.cache
+D:\Temp\Code\vs_code_cs\obj\Debug\net8.0\vs_code_cs.AssemblyInfo.cs
+D:\Temp\Code\vs_code_cs\obj\Debug\net8.0\vs_code_cs.csproj.CoreCompileInputs.cache
+D:\Temp\Code\vs_code_cs\obj\Debug\net8.0\vs_code_cs.dll
+D:\Temp\Code\vs_code_cs\obj\Debug\net8.0\refint\vs_code_cs.dll
+D:\Temp\Code\vs_code_cs\obj\Debug\net8.0\vs_code_cs.pdb
+D:\Temp\Code\vs_code_cs\obj\Debug\net8.0\vs_code_cs.genruntimeconfig.cache
+D:\Temp\Code\vs_code_cs\obj\Debug\net8.0\ref\vs_code_cs.dll
