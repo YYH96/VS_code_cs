@@ -26,7 +26,9 @@ class Person
         get { return name; }
     }
 }
-class MyProgram
+
+
+internal class MyProgram
 {
     static void Main(string[] args)
     {
