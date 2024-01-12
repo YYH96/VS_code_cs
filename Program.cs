@@ -1,6 +1,7 @@
 using System;
 using RockScissorsPaper;
 using MultiplicationTable;
+using Calculator;
 
 namespace MainProgram
 {
@@ -16,6 +17,9 @@ namespace MainProgram
             // MultiplicationTableMachine multiTableMachine = new MultiplicationTableMachine();
             // multiTableMachine.MultiplicationTableMachineRun();
 
+            //계산기
+            CalculatorMachin calculator = new CalculatorMachin();
+            calculator.CalculatorMachinRun();
 
         }
     }
